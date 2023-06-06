@@ -1,12 +1,22 @@
-.poppins {
-  font-family: 'Poppins', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800&display=swap');
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 25px;
+}
+
+.social {
+  width: 40%;
+  height: 10%;
 }
 
 .back {
   background-image: url("./img/header-shapes\ mobile.png");
-  position: absolute;
-  width: 100%;
-  height: 70%;
+  width: auto;
+  background-repeat: no-repeat;
+  height: 82%;
 }
 
 .header {
@@ -36,6 +46,15 @@
   left: 1px;
   top: 44px;
   border-radius: 1px;
+}
+
+.lets {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
 }
 
 .logo {

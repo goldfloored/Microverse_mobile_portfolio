@@ -1,41 +1,15 @@
 # Microverse_mobile_portfolio
 
-Welcome to my mobile Microverse Repo, I hope you will like it!
+Welcome to my mobile Microverse mobile Repo, I hope you will like it!
 
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -49,9 +23,27 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Microverse_mobile] <a name="about-project"></a>
 
-> My first project in Microverse
 
 **[Microverse_mobile]** is a basic mobile version for Microverse's project
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Markup</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cascading Style sheet(CSS)</summary>
+  <ul>
+    <li><a href="https://css-tricks.com/">CSS</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -133,6 +125,5 @@ I would like to thank Microverse for giving us the opportunity to shine!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
